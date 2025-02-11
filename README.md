@@ -188,7 +188,6 @@ public class MainActivity extends AppCompatActivity {
 3. The **result** will be displayed below.  
 
 ## App Preview
-https://github.com/Kk1805/Calculator/blob/main/APPPREVIEW01.jpg?raw=true
 
 
 ## License
