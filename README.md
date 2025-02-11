@@ -187,13 +187,6 @@ public class MainActivity extends AppCompatActivity {
 2. Click on the **+**, **-**, **×**, or **÷** button to perform the operation.  
 3. The **result** will be displayed below.  
 
-## App Preview
-![Image](https://github.com/user-attachments/assets/e6e94ab3-0989-459f-ad1d-bc389d713bf8)
-![Image](https://github.com/user-attachments/assets/ae0f27fb-ac61-45b2-8828-44e626966864)
-![Image](https://github.com/user-attachments/assets/abbdd011-932c-4693-bd95-a900bf683a95)
-![Image](https://github.com/user-attachments/assets/83830076-69ef-43c1-a740-665b76094df5)
-![Image](https://github.com/user-attachments/assets/cf8d7854-6387-47b5-bea2-cb968fca858f)
-
 ## License
 This project is licensed under the **MIT License**.  
 
